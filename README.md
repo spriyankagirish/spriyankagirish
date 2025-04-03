@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spriyankagirish&label=Profile%20views&color=0e75b6&style=flat" alt="spriyankagirish" /> </p>
 
-- 🔭 I’m currently working on **Data Analyst**
+- 🔭 I’m currently working on **Senior Data Analyst**
 
 - 🌱 I’m currently learning **Gen AI**
 

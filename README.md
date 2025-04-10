@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 👯 I’m looking to collaborate on **Data Scientist Projects**
+- 👯 I’m looking to collaborate on **Data Scientist Jobs**
 
 - 🤝 My Skill Sets are **SQL,Power BI, Python ,Machine Learning , Deep Learning**
 

@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Scientist Jobs**
 
-- 🤝 My Skill Sets are **SQL,Power BI, Python ,Machine Learning , Deep Learning**
+- 🤝 My Skill Sets include **SQL, Power BI, Python, Machine Learning, Deep Learning, Generative AI (GenAI), Retrieval-Augmented Generation (RAG), NLP, LangChain, Google Gemini, OpenAI GPT, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Data Visualization, and Prompt Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spriyankagirish](https://github.com/spriyankagirish)
 

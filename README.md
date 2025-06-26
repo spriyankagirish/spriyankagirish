@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm priyanka SG</h1> 
-<h3 align="center">A passionate Data scientist- Gen AI from India</h3>
+<h3 align="center">A passionate Data scientist - Gen AI from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spriyankagirish&label=Profile%20views&color=0e75b6&style=flat" alt="spriyankagirish" /> </p>
 
 - 🔭 I’m currently working on **Senior Data Analyst**
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Agentic  AI**
 
-- 👯 I’m looking to collaborate on **Data Scientist Jobs**
+- 👯 I’m looking to collaborate on **Data Scientist - Geni AI Jobs**
 
 - 🤝 My Skill Sets include **SQL, Power BI, Python, Machine Learning, Deep Learning, Generative AI (GenAI), Retrieval-Augmented Generation (RAG), NLP, LangChain, Google Gemini, OpenAI GPT, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Data Visualization, and Prompt Engineering.**
 

@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Priyanka SG</h1>
-<h3 align="center">Data Scientist | Generative AI Enthusiast | Building Intelligent Solutions with Data</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spriyankagirish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,8 +6,8 @@
 
 ---
 
-- 🔭 Currently working as a **Senior Data Analyst**  
-- 🌱 Exploring **Agentic AI, LangGraph**, and advanced **RAG architectures**  
+- 🔭 Currently working as a **Engineering Lead**  
+- 🌱 Exploring **Agentic AI, LangGraph** and  **Agents**  
 - 👩‍💻 Open to collaborations on **Data Science, GenAI, and AI-Powered Products**  
 - 💡 Passionate about solving real-world problems using **ML, Deep Learning, and LLMs**  
 - 🧠 Focus Areas: **GenAI, RAG Pipelines, NLP, Forecasting, Chatbots, Dashboards**  
@@ -21,7 +20,7 @@
 
 ### 🛠️ My Core Skill Set
 **Languages & Tools:**  
-Python, SQL, Power BI, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, LangChain, OpenAI GPT, Google Gemini, Hugging Face, Streamlit, Excel, Jupyter Notebook, Prompt Engineering, RAG, NLP, YOLOv5, Git
+Python, LangChain,LangGraph, SQL, OpenAI GPT, Google Gemini, Hugging Face, Prompt Engineering, RAG,
 
 ---
 
